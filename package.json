@@ -1,0 +1,12 @@
+{
+  "name": "docker-saltstack",
+  "version": "1.0.0",
+  "description": "Docker Compose setup to spin up a salt master and minions.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
